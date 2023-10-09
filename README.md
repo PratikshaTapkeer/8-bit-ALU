@@ -29,7 +29,7 @@ Inputs of an ALU are primarily the operands which are the data to be operated on
 
 [PDF File](schematic.pdf)
 <p align = 'center'>
-    <img src='schematic.pdf' width=800 height=450>
+    <img src='assests/ALU_internal_struct.png' width=800 height=450>
 </p>
 
 
