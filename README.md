@@ -1,4 +1,4 @@
-# Design 8-bit ALU.
+# Design & Verify 8-bit ALU.
 
 ## Introduction
 ALU performs arithmetic and logic operations. It is also one of the most fundamental units of many computing circuits, including the central processing unit (CPU) of computers, and the graphic processing unit (GPU) of video cards.
